@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100vh;
+    width: 100vw;
 }
 h1{
     color: MediumSpringGreen;
@@ -19,8 +20,10 @@ h1:hover{
     margin-bottom: 1%;
     margin: 0 10% 1% 10%;
     border-radius: 10px;
-    box-shadow: 2px 3px mediumseagreen;
+    box-shadow: 3px -3px mediumseagreen;
+    border: 5px double silver;
     height: 70vh;
+    opacity: 0.8;
 }
 #description{
     float: right;
@@ -86,7 +89,8 @@ section ,#sec1{
 #my-work{
     background-color: silver;
     margin: 0 10% 0 10%;
-    border: 2px solid #F15A29;
+    border: 4px dotted #F15A29;
+    border-radius: 10px;
 }
 
 /* #name{
