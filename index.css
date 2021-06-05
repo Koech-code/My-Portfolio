@@ -43,6 +43,7 @@ section ,#sec1{
     margin: 0 10% 0 10%;
     border: 2px solid #F15A29;
 }
+
 /* #name{
     color: #F15A29;
     font-family: sans-serif;
@@ -64,4 +65,9 @@ ol >p{
 }
 #name ,p{
     font-size: 20px;
+}
+#screenshots{
+    height: 30vh;
+    width: 4ovw;
+    border-radius: 10px;
 }
