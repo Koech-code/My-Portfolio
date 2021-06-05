@@ -32,6 +32,8 @@ A computer with a working and up to date web browser.
 
 ## Author
 
+-Nixon Kipkorir Koech
+
 👤 **Author**
 
 - GitHub: [@Koech-Code](https://koech-code.github.io/Fashion-shop/)
@@ -49,10 +51,10 @@ Feel free to check the [issues page](https://github.com/Koech-code/Fashion-shop.
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like project!
 ## Acknowledgments
 
-- I would like to thank my techical mentors and fellow colleagues for the support they are giving me in this journey of coding.
+- I would like to thank my technical mentors and fellow colleagues for the support they are giving me in this journey of coding.
 
 ## 📝 License
 
