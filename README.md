@@ -23,7 +23,7 @@ To get a local copy, follow these simple example steps.
    -Open Documents in your computer (cd Documents)
    -Clone my repository(git clone and paste URL)
 
-$ git clone
+$ git clone (https://github.com/Koech-code/My-Portfolio.git)
 
 ### Prerequisites
 
