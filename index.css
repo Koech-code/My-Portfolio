@@ -18,11 +18,11 @@ h1:hover{
 .Nickson{
     background-color: sienna;
     margin-bottom: 1%;
-    margin: 0 10% 1% 10%;
+    margin: 2% 10% 1% 10%;
     border-radius: 10px;
     box-shadow: 3px -3px mediumseagreen;
     border: 5px double silver;
-    height: 70vh;
+    height: 90vh;
     opacity: 0.8;
 }
 #description{
@@ -57,12 +57,7 @@ em:hover{
     border-radius: 50%;
     margin-left: 10%;
 }
-table{
-    border-collapse: collapse;
-}
-tr:last-child {
-    border-bottom: none;
-   }
+
 .container{
     list-style-type: none;
     background-color: #F15A29;
@@ -86,6 +81,25 @@ section ,#sec1{
     background-color: blueviolet;
     margin-top: 20%;
 }
+#hobbies{
+    color: aqua;
+    background-color: cadetblue;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10%;
+}
+#hobbies ,h3 ,ul{
+    text-align: center;
+}
+
+.projects{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: purple;
+    text-shadow: 2px -2px lightcyan;
+    opacity: 0.8;
+}
 #my-work{
     background-color: silver;
     margin: 0 10% 0 10%;
@@ -93,16 +107,6 @@ section ,#sec1{
     border-radius: 10px;
 }
 
-/* #name{
-    color: #F15A29;
-    font-family: sans-serif;
-    display: flex;
-    justify-content: center;
-}
-ol >p{
-    display: flex;
-    justify-content: center;
-} */
 #my-work{
     display: flex;
     justify-content: center;
@@ -119,4 +123,10 @@ ol >p{
     height: 30vh;
     width: 4ovw;
     border-radius: 10px;
+}
+#singles{
+    height: 50vh;
+    width: 40vw;
+    margin-left: 10%;
+    border-radius: 40px;
 }
