@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://koech-code.github.io/Fashion-shop/)
+[Live Demo Link](https://koech-code.github.io/My-Portfolio/)
 
 
 ## Installation Instructions
@@ -32,12 +32,12 @@ A computer with a working and up to date web browser.
 
 ## Author
 
--Nixon Kipkorir Koech
+ Nixon Kipkorir Koech
 
 👤 **Author**
 
-- GitHub: [@Koech-Code](https://koech-code.github.io/Fashion-shop/)
-- e-mail [@nixon.koech@student.moringaschool.com](https://koech-code.github.io/Fashion-shop/)
+- GitHub: [@Koech-Code](https://github.com/Koech-code/My-Portfolio.git/)
+- e-mail [@nixon.koech@student.moringaschool.com](https://github.com/Koech-code/My-Portfolio.git/)
 
 
 
@@ -47,7 +47,7 @@ A computer with a working and up to date web browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Koech-code/Fashion-shop.git).
+Feel free to check the [issues page](https://github.com/Koech-code/My-Portfolio.git).
 
 ## Show your support
 
@@ -58,4 +58,4 @@ Give a ⭐️ if you like project!
 
 ## 📝 License
 
-This project is [MIT](LICENCE.md) licensed.
+This project is [MIT](LICENSE.md) licensed.
