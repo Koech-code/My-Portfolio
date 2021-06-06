@@ -60,11 +60,9 @@ em:hover{
 #hobbies{
     color: aqua;
     background-color: cadetblue;
-    padding-left: 40%;
-    padding-right: 50%;
-    border-radius: 1%;
-    margin-left: 5%;
+    margin-left: 20%;
     margin-right: 20%;
+    border-radius: 1%;
 }
 #hobbies ,h3 ,ul{
     text-align: center;
